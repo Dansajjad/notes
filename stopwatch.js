@@ -1,4 +1,3 @@
-//Closures
 
 var makestopwatch = function() {
     var elapsed = 0; 
